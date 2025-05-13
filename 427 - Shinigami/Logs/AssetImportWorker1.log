@@ -2937,3 +2937,83 @@ AssetImportParameters requested are different than current active one (requested
   custom:scripting/precompiled-assembly-types:Assembly-CSharp-Editor: 2269783aa1764247bfaa8a1c937d18ea -> 
   custom:scripting/monoscript/fileName/ThirdPersonController.cs: 9a99cefa5aebbf3bc9e4d8f0d797c393 -> 
   custom:scripting/precompiled-assembly-types:Assembly-CSharp: 741317f86756da078bfc050fadb9de81 -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+Thread 0x16f17f000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.758 seconds
+Native extension for OSXStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.243 seconds
+Domain Reload Profiling: 2002ms
+	BeginReloadAssembly (345ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (108ms)
+	RebuildCommonClasses (30ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (27ms)
+	LoadAllAssembliesAndSetupDomain (348ms)
+		LoadAssemblies (494ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (31ms)
+			TypeCache.Refresh (19ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (1243ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (380ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (46ms)
+			ProcessInitializeOnLoadAttributes (280ms)
+			ProcessInitializeOnLoadMethodAttributes (45ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Refreshing native plugins compatible for Editor in 1.97 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5465 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 24 unused Assets / (1.2 MB). Loaded Objects now: 6478.
+Memory consumption went from 315.0 MB to 313.8 MB.
+Total: 3.907083 ms (FindLiveObjects: 0.415667 ms CreateObjectMapping: 0.054667 ms MarkObjects: 3.043000 ms  DeleteObjects: 0.393166 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/precompiled-assembly-types:Unity.StarterAssets.Editor: a21cb47082aec58e965720604dccd691 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/StarterAssetsDeployMenu.cs: e3d8a3e31a815bb7153c4754735abb50 -> 
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:scripting/monoscript/fileName/Readme.cs: 5aedf578fb2663036982fb7b05aaf325 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/MobileDisableAutoSwitchControls.cs: 2dfcd314872c1bde0964f6913bec90eb -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/ReadmeEditor.cs: ff7ced1e41c1b99ddf5dfefc88f6bd50 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:scripting/monoscript/fileName/BasicRigidBodyPush.cs: eb3beff3fd9b439a2b8c0ff1c66bdcba -> 
+  custom:scripting/precompiled-assembly-types:Unity.StarterAssets: ed322ccb29c33e0a124342bc47cb6742 -> 
+  custom:scripting/monoscript/fileName/VirtualInput.cs: a21462140688c6c3fd15ca544f0850c2 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:scripting/precompiled-assembly-types:URPWizard: dd62e213a24fbcb3f2c0a9c98564ced9 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/StarterAssetsInputs.cs: 45a99b5e49f550138128c8da74c72fff -> 
+  custom:scripting/monoscript/fileName/URPWizard.cs: d50cc73b1f889a363bc545e7b5fcba53 -> 
+  custom:scripting/monoscript/fileName/ThirdPersonStarterAssetsDeployMenu.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/FirstPersonController.cs: 76fca470bd42f623a33e793aaa058573 -> 
+  custom:scripting/monoscript/fileName/TouchscreenInput.cs: 370e7d4406295842068fb521badad202 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp-Editor: 2269783aa1764247bfaa8a1c937d18ea -> 
+  custom:scripting/monoscript/fileName/ThirdPersonController.cs: 9a99cefa5aebbf3bc9e4d8f0d797c393 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 741317f86756da078bfc050fadb9de81 -> 
