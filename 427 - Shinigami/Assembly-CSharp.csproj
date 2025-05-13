@@ -63,7 +63,12 @@
     <Compile Include="Assets/Starter Assets/TutorialInfo/Scripts/Readme.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets/Vefects/Free Fire VFX URP/_ Extra/Resources/Shaders/SH_Vefects_Extra_Grid_01_URP.shader" />
     <None Include="Assets/Starter Assets/Sample/Environment/Shaders/Built-in_RP/Triplanar.shader" />
+    <None Include="Assets/Vefects/Free Fire VFX URP/_ Extra/Resources/Shaders/SH_Vefects_Extra_Billboard_01.shader" />
+    <None Include="Assets/Vefects/Free Fire VFX URP/Shaders/SH_Vefects_VFX_URP_Heat_Haze_01.shader" />
+    <None Include="Assets/Vefects/Free Fire VFX URP/Shaders/SH_Vefects_VFX_URP_Particles_Erosion_01.shader" />
+    <None Include="Assets/Vefects/Free Fire VFX URP/Shaders/SH_Vefects_VFX_URP_Fire_Flames_01.shader" />
     <None Include="Assets/Starter Assets/Sample/Environment/Shaders/Built-in_RP/ArmatureShader.shader" />
   </ItemGroup>
   <ItemGroup>
