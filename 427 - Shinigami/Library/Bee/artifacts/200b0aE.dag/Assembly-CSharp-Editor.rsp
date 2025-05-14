@@ -340,6 +340,8 @@
 -r:"Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll"
 -r:"Library/PackageCache/com.unity.visualscripting@1.9.4/Editor/VisualScripting.Core/EditorAssetResources/Unity.VisualScripting.TextureAssets.dll"
 -r:"Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+-r:"Library/Bee/artifacts/200b0aE.dag/ALP8310_ControllerGlobal.Editor.ref.dll"
+-r:"Library/Bee/artifacts/200b0aE.dag/ALP8310_ControllerGlobal.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Cinemachine.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/com.unity.cinemachine.editor.ref.dll"
@@ -392,6 +394,10 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/URPWizard.ref.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.61f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.61f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
+"Assets/ALP_Assets/Poplar Tree FREE/Core/Scripts/Global Lighting/Editor/ALP8310_GlobalLightingWindow.cs"
+"Assets/ALP_Assets/Poplar Tree FREE/Core/Scripts/Global Lighting/Editor/ALP8310_LightsSettings.cs"
+"Assets/ALP_Assets/Poplar Tree FREE/Core/Scripts/GUI/Editor/ALP8310_ShaderDrawers.cs"
+"Assets/ALP_Assets/Poplar Tree FREE/Core/Scripts/GUI/Editor/ALP8310_ShaderGUI.cs"
 "Assets/Starter Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs"
 -langversion:9.0
 /deterministic
