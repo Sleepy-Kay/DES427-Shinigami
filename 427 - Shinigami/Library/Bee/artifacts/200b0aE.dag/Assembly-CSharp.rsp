@@ -382,8 +382,10 @@
 "Assets/JumpscareTrigger.cs"
 "Assets/playAnimation.cs"
 "Assets/playAnimation3.cs"
+"Assets/playAnimation4.cs"
 "Assets/playerAnimation1.cs"
 "Assets/Starter Assets/TutorialInfo/Scripts/Readme.cs"
+"Assets/TheEND.cs"
 -langversion:9.0
 /deterministic
 /optimize+

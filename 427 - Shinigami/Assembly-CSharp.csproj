@@ -67,7 +67,9 @@
     <Compile Include="Assets/playerAnimation1.cs" />
     <Compile Include="Assets/playAnimation3.cs" />
     <Compile Include="Assets/JumpscareTrigger.cs" />
+    <Compile Include="Assets/TheEND.cs" />
     <Compile Include="Assets/Starter Assets/TutorialInfo/Scripts/Readme.cs" />
+    <Compile Include="Assets/playAnimation4.cs" />
     <Compile Include="Assets/playAnimation.cs" />
   </ItemGroup>
   <ItemGroup>
