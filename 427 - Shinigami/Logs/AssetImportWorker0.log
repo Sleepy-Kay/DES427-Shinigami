@@ -2170,3 +2170,12 @@ Start importing Assets/Real Stars Skybox/StarSkybox04/Materials/CubemapStars.mat
  -> (artifact id: '19df9eef11051fd4afed635fa6a31fb0') in 0.048124 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1001.519323 seconds.
+  path: Assets/SkyBox
+  artifactKey: Guid(e29106118540a4a1280d0ce00cbc9f7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox using Guid(e29106118540a4a1280d0ce00cbc9f7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '1758afdaae8924a380617822ada36812') in 0.014342 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
