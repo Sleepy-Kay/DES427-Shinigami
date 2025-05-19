@@ -2131,3 +2131,42 @@ Start importing Assets/Real Stars Skybox/Demo Scene/Skybox Camera.prefab using G
  -> (artifact id: 'b2eaaf57b95dcbd2c8638ca831d84b49') in 0.024590 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 98.134294 seconds.
+  path: Assets/Real Stars Skybox/StarSkybox04/StarSkybox04.mat
+  artifactKey: Guid(2d056ac30ecc9e542b26e06133f23602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Real Stars Skybox/StarSkybox04/StarSkybox04.mat using Guid(2d056ac30ecc9e542b26e06133f23602) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '2fbe80a0cbcee7bd5dbe89d665cb5e20') in 0.530494 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 18.536588 seconds.
+  path: Assets/Real Stars Skybox/StarSkybox04/Materials
+  artifactKey: Guid(cc790db8e1a9d463a9d4437268c59989) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Real Stars Skybox/StarSkybox04/Materials using Guid(cc790db8e1a9d463a9d4437268c59989) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e45c57dd7cc41334f0316a1f514ae9bc') in 0.001906 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.086115 seconds.
+  path: Assets/Real Stars Skybox/StarSkybox04/Materials/CubemapStars.mat
+  artifactKey: Guid(4675d5399de564b0c80fe8fb7d6d3930) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Real Stars Skybox/StarSkybox04/Materials/CubemapStars.mat using Guid(4675d5399de564b0c80fe8fb7d6d3930) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'f48eeef90f9f31490812b14a31d7bf08') in 0.569038 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 78.960902 seconds.
+  path: Assets/Real Stars Skybox/StarSkybox04/Materials/CubemapStars.mat
+  artifactKey: Guid(4675d5399de564b0c80fe8fb7d6d3930) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Real Stars Skybox/StarSkybox04/Materials/CubemapStars.mat using Guid(4675d5399de564b0c80fe8fb7d6d3930) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '19df9eef11051fd4afed635fa6a31fb0') in 0.048124 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
