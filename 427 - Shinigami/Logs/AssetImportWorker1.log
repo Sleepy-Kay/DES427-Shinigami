@@ -1777,3 +1777,163 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1464.201582 seconds.
+  path: Assets/Real Stars Skybox/StarSkybox04/StarSkybox04.mat
+  artifactKey: Guid(2d056ac30ecc9e542b26e06133f23602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Real Stars Skybox/StarSkybox04/StarSkybox04.mat using Guid(2d056ac30ecc9e542b26e06133f23602) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '5c513f7c021d5dbbb4cd4ad1b8b2fe59') in 0.956641 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 26
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/Real Stars Skybox/StarSkybox04/StarSkybox045.png
+  artifactKey: Guid(bc8f9c3d8de49024bab7c4052cbd81b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Real Stars Skybox/StarSkybox04/StarSkybox045.png using Guid(bc8f9c3d8de49024bab7c4052cbd81b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '462b42867d6b2ce96541a05703db3697') in 0.040661 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 45.446802 seconds.
+  path: Assets/Real Stars Skybox/StarSkybox04Named/StarSkybox04Named.mat
+  artifactKey: Guid(50e26aed28714894cb49da25901379b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Real Stars Skybox/StarSkybox04Named/StarSkybox04Named.mat using Guid(50e26aed28714894cb49da25901379b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ceb991949443e878c72dfe71bd6ddb7b') in 0.068986 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/Real Stars Skybox/StarSkybox04Named/StarSkybox04Named2.png
+  artifactKey: Guid(cc26d520115a6a547b7be689f90fb8f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Real Stars Skybox/StarSkybox04Named/StarSkybox04Named2.png using Guid(cc26d520115a6a547b7be689f90fb8f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '11a21cc3be6271c0e554910ad05c3353') in 0.011404 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Real Stars Skybox/StarSkybox04Named/StarSkybox04Named3.png
+  artifactKey: Guid(a2b03e4b2c0f0ed4b9646579fbdc3f2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Real Stars Skybox/StarSkybox04Named/StarSkybox04Named3.png using Guid(a2b03e4b2c0f0ed4b9646579fbdc3f2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ee91559381ac85005bad2529e49efbf3') in 0.005422 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000452 seconds.
+  path: Assets/Real Stars Skybox/StarSkybox04Named/StarSkybox04Named6.png
+  artifactKey: Guid(3169cbab7bd82fb4e889ad1d3f30ddc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Real Stars Skybox/StarSkybox04Named/StarSkybox04Named6.png using Guid(3169cbab7bd82fb4e889ad1d3f30ddc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '4538b269317cf443c685e4f8a88a5d87') in 0.027763 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Real Stars Skybox/StarSkybox04Named/StarSkybox04Named4.png
+  artifactKey: Guid(f479446fdaba63147be06b118936fde0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Real Stars Skybox/StarSkybox04Named/StarSkybox04Named4.png using Guid(f479446fdaba63147be06b118936fde0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '0f01161bd09831afba4c4ed102bcd266') in 0.006311 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/Real Stars Skybox/StarSkybox04Named/StarSkybox04Named1.png
+  artifactKey: Guid(1b5491d7d8c0c684a8d4827a8473b1d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Real Stars Skybox/StarSkybox04Named/StarSkybox04Named1.png using Guid(1b5491d7d8c0c684a8d4827a8473b1d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '1363f55b911459292780625000f48862') in 0.006354 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000421 seconds.
+  path: Assets/Real Stars Skybox/StarSkybox04Named/StarSkybox04Named5.png
+  artifactKey: Guid(5a335a020961242499ce58f2b87ea0d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Real Stars Skybox/StarSkybox04Named/StarSkybox04Named5.png using Guid(5a335a020961242499ce58f2b87ea0d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '5291725ccb937b2a0749cf214c30db11') in 0.015797 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 2.286533 seconds.
+  path: Assets/Real Stars Skybox/StarSkybox04NamedConstell/StarSkybox04NamedConstell.mat
+  artifactKey: Guid(281ddd71b990ce9449efecec53925061) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Real Stars Skybox/StarSkybox04NamedConstell/StarSkybox04NamedConstell.mat using Guid(281ddd71b990ce9449efecec53925061) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'dedaad48e1498d3630eeaa82e6804401') in 0.063371 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/Real Stars Skybox/StarSkybox04NamedConstell/StarSkybox04NamedConstell2.png
+  artifactKey: Guid(daee3db1a1d3c3346bfe8c6ae1577d09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Real Stars Skybox/StarSkybox04NamedConstell/StarSkybox04NamedConstell2.png using Guid(daee3db1a1d3c3346bfe8c6ae1577d09) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '174a46a3c69fe2a2b0ebe5ad8f507ffb') in 0.036804 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Real Stars Skybox/StarSkybox04NamedConstell/StarSkybox04NamedConstell4.png
+  artifactKey: Guid(a286e1629b6f5414d8cc5f6f27dbc131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Real Stars Skybox/StarSkybox04NamedConstell/StarSkybox04NamedConstell4.png using Guid(a286e1629b6f5414d8cc5f6f27dbc131) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '94c8acbd954749822b7176e51cd70429') in 0.006849 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/Real Stars Skybox/StarSkybox04NamedConstell/StarSkybox04NamedConstell3.png
+  artifactKey: Guid(9cd21000384bca14bbac1e6d1c07063d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Real Stars Skybox/StarSkybox04NamedConstell/StarSkybox04NamedConstell3.png using Guid(9cd21000384bca14bbac1e6d1c07063d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '4f75ccba540cbdce2b39666a265a217c') in 0.007385 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/Real Stars Skybox/StarSkybox04NamedConstell/StarSkybox04NamedConstell6.png
+  artifactKey: Guid(8618acc75ce91dc4494071915deab9c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Real Stars Skybox/StarSkybox04NamedConstell/StarSkybox04NamedConstell6.png using Guid(8618acc75ce91dc4494071915deab9c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'da7712b646bfb485da27b76d8d684fda') in 0.007361 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/Real Stars Skybox/StarSkybox04NamedConstell/StarSkybox04NamedConstell5.png
+  artifactKey: Guid(e2f3c15f1dd8f4d40b0dc5815e0a17e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Real Stars Skybox/StarSkybox04NamedConstell/StarSkybox04NamedConstell5.png using Guid(e2f3c15f1dd8f4d40b0dc5815e0a17e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'abb9e2eb541dc43ac2f224dd4d95399c') in 0.007879 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/Real Stars Skybox/StarSkybox04NamedConstell/StarSkybox04NamedConstell1.png
+  artifactKey: Guid(14dc5b7e061db634287a9d257530bb56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Real Stars Skybox/StarSkybox04NamedConstell/StarSkybox04NamedConstell1.png using Guid(14dc5b7e061db634287a9d257530bb56) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '5f582c8d93485e7da70f669a685fd8c8') in 0.006972 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
