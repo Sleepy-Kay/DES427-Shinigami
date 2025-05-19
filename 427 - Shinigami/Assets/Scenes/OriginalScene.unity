@@ -75809,7 +75809,7 @@ GameObject:
   - component: {fileID: 1879009523}
   - component: {fileID: 1879009522}
   - component: {fileID: 1879009528}
-  - component: {fileID: 1879009527}
+  - component: {fileID: 1879009529}
   m_Layer: 0
   m_Name: Plane
   m_TagString: Untagged
@@ -75832,12 +75832,12 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 13.23078, y: 0.13636477, z: 10.927957}
-  m_Center: {x: -1.6153814, y: -0.090705395, z: -0.46397418}
+  m_Size: {x: 13.875162, y: 0.24298881, z: 13.398969}
+  m_Center: {x: -1.9375706, y: -0.03739338, z: -1.6994796}
 --- !u!64 &1879009523
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -75867,7 +75867,7 @@ MeshRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1879009521}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -75925,19 +75925,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 987037302}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1879009527
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1879009521}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b0d84f606ab944a37909c15ee5bb7fa7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  myCube: {fileID: 318868282}
 --- !u!54 &1879009528
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -75965,6 +75952,19 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!114 &1879009529
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1879009521}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e34190cf0e7534a179c41a184f7186e7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  myCube: {fileID: 318868282}
 --- !u!4 &1879716517 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4755460052612044462, guid: 6770e849cebefb44eaa52103c9cf174f, type: 3}
