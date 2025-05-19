@@ -379,8 +379,10 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/URPWizard.ref.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.61f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.61f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
+"Assets/JumpscareTrigger.cs"
 "Assets/playAnimation.cs"
 "Assets/playAnimation3.cs"
+"Assets/playerAnimation1.cs"
 "Assets/Starter Assets/TutorialInfo/Scripts/Readme.cs"
 -langversion:9.0
 /deterministic

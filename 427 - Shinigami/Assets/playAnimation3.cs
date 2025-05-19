@@ -6,6 +6,7 @@ public class playAnimation3 : MonoBehaviour
 {
 
     public GameObject myCube;
+    public AudioSource Jumpscare_SoundEffect;
 
     private Animator anim;
 
@@ -26,6 +27,7 @@ public class playAnimation3 : MonoBehaviour
         if (other.gameObject.CompareTag("Player"))
         {
             anim.Play("Character3_Animation", 0, 0.0f);
+            Jumpscare_SoundEffect.Play();
         }
     }
 }
